@@ -1,3 +1,4 @@
 node_modules
 .idea
-
+./cookies.json
+./cookies_tmp.json

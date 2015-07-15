@@ -1,11 +1,23 @@
 {
   "name": "zhihu_node_crawler",
   "version": "0.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Minli Chen <bigrice20@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.58.0",
+    "tough-cookie-filestore": "^0.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaze13/zhihu_node_crawler.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kaze13/zhihu_node_crawler/issues"
+  },
+  "homepage": "https://github.com/kaze13/zhihu_node_crawler"
 }
